@@ -12,7 +12,6 @@
 ### Introduction
 - A Real-Time Chat Application using Node.js, Express.js and React.js
 - Creates personalized chats and instant messaging with individuals or groups.
-- Seamless transition between devices, whether on desktop or mobile.
 - Feature Image/file sharing, read receipts, and secure chat environment.
 
 <a id="usage"></a>
@@ -39,7 +38,6 @@
 - **Customizable UI**: Allowing users to personalize their chat experience with themes and layouts.
 - **Notification System**: Ensuring they stay informed even when not actively using the application.
 - **Voice and Video Calls**: Expanding communication options within the application.
-- **Integration with Chatbots**: To provide automated assistance and engage users with predefined responses or actions.
 - **Mobile Application**: Develop native mobile applications for iOS and Android platforms, ensuring a seamless experience on smartphones and tablets.
 
 <a id="snippets"></a>
