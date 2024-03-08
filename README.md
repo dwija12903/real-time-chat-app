@@ -24,15 +24,15 @@
 
 <a id="tech"></a>
 ### 💻 Technologies used
-- Frameworks:
-  -Node.js (backend server)
-  -Express.js (HTTP framework for Node.js)
-  -React.js (frontend framework)
-Libraries/APIs:
-  -Axios (for making API calls)
-  -Cors(middleware to enable cross-origin communication)
-  -Chat Engine (specifically, Chat Engine.io for providing full-stack chat tools)
-Development Tools: VS Code
+- Frameworks
+  - Node.js (backend server)
+  - Express.js (HTTP framework for Node.js)
+  - React.js (frontend framework)
+- Libraries/APIs
+  - Axios (for making API calls)
+  - Cors (middleware to enable cross-origin communication)
+  - Chat Engine (specifically, Chat Engine.io for providing full-stack chat tools)
+- Development Tools: VS Code
 
 <a id="future-scope"></a>
 ### 🚀 Future Scope
