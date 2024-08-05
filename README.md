@@ -1,4 +1,4 @@
-# Splendid-Chat-Hub
+# Real-Time-Chat-Application
 ### A Real-Time Chat Application for one-on-one and group conversations leveraging real-time updates and a secure chat environment.
 
 ### 📌 Table of Contents
